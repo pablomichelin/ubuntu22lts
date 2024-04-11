@@ -1,0 +1,12 @@
+curl -o nome-do-script.sh https://raw.githubusercontent.com/pablomichelin/ubuntu22lts/main/script-kanboard-1-2-20%20-%20Rodar%20pelo%20linux.sh
+
+Ou
+
+wget -O nome-do-script.sh https://raw.githubusercontent.com/pablomichelin/ubuntu22lts/main/script-kanboard-1-2-20%20-%20Rodar%20pelo%20linux.sh
+
+
+Depois de baixar o script, lembre-se de torná-lo executável antes de rodar:
+
+chmod +x nome-do-script.sh
+
+./nome-do-script.sh
