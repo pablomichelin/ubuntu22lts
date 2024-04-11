@@ -41,7 +41,7 @@ echo "Configurando o Nginx para o Kanboard..."
 sudo bash -c 'cat > /etc/nginx/sites-available/kanboard << EOF
 server {
     listen 80;
-    server_name 192.168.0.216;
+    server_name COLOQUEIPDOSEUSERVIDOR;
 
     root /var/www/html/kanboard;
     index index.php;
