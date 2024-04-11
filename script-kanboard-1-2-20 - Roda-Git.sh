@@ -18,8 +18,8 @@ echo "Instalando o Nginx..."
 sudo -E apt-get -y install nginx
 
 # Verifica the status do Nginx
-echo "Verificando o status do Nginx..."
-systemctl status nginx
+#echo "Verificando o status do Nginx..."
+#systemctl status nginx
 
 # Instala o PHP 8.1 e extensões necessárias sem interações
 echo "Instalando o PHP 8.1 e extensões necessárias..."
