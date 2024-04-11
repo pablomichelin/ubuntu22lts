@@ -1,0 +1,1 @@
+curl -s https://raw.githubusercontent.com/pablomichelin/ubuntu22lts/main/script-kanboard-1-2-20%20-%20Roda-Git.sh | sudo bash -s -- SEU_IP_OU_DOMINIO
